@@ -26,18 +26,9 @@ This project focuses on optimizing food delivery operations using various busine
   - `tensorflow` (for LSTM)
   - `matplotlib` (for visualizations)
   - `bpmn-python` (for BPMN modeling)
-  - `QGIS` (for geographical data analysis)
 
-## Installation
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/farnoush-zeidi/Food-Delivery-Operations.git
-    ```
 
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
 
 3. Load the BPMN models and run the data analysis scripts as needed.
 
